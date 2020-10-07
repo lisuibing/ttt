@@ -12,11 +12,11 @@ public class helloword {
 		
 		
 		
-		int aaa=434456;
-
+		int aaa1=4456;
+ 
 		String name="hello!";
 		String word="lisuibing";
-		System.out.println(aaa+name+word);
+		System.out.println(aaa1+name+word);
 	}
 
 }
